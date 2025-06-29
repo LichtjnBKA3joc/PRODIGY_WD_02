@@ -1,0 +1,26 @@
+body {
+  font-family: 'Times New Roman', sans-serif;
+  text-align: center;
+  background: linear-gradient(to right, #1b676b, #b9d7d9);
+  color: #2f3542;
+}
+
+.container {
+  margin-top: 100px;
+}
+
+#display {
+  font-size: 3rem;
+  margin: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 5px;
+  font-size: 1rem;
+}
+
+#laps {
+  list-style: none;
+  padding: 0;
+}
